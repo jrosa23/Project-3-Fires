@@ -1,0 +1,11 @@
+Flask
+requests
+folium
+requests-cache
+pandas
+retry-requests
+numpy
+shapely
+openmeteo-requests
+Jinja2
+branca
