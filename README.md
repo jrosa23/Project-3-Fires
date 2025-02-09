@@ -69,8 +69,11 @@ The project consists of five main versions represented by different code iterati
     * Second version: Adds colormaps and legends for each index.
 
 
-* **`fire_index_mapping_with_fire_boundaries.py` (Final Version - Template & Serialization Improvements):**
+* **`fire_index_mapping_with_fire_boundaries.py` (3rd Version - Template & Serialization Improvements):**
     * This version improves performance by using Jinja2 templates and custom JSON encoding for simplified JSON handling. Layer control is also added for interactive toggling of layers, as well as offsetting markers to enhance visibility.
+
+* **`fire_index_mapping_with_fire_boundaries_refined.ipynb` (Final Version Demonstrated in Class):**
+    * This version was the file demonstrated in class during presentations*
 
 
 Each of the final two versions has corresponding subfolders with the actual code, explanation files, result images (if any), and other relevant files like the `.cache.sqlite` database generated for storing and retrieving the calculated data.
